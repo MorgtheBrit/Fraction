@@ -13,6 +13,7 @@ numer = 0
 
 print("""
 Welcome to FractionDemo.py
+If you want to exit make the first fraction of the loop equal 
 """)
 
 while True:

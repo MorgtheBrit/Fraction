@@ -6,10 +6,10 @@ The title of this program is called Fraction, coded by Morgan James Humphreys up
 # Requirements/Specifications:
 The program 'Fraction' was coded to the requirements asked for by the client. The program begins by starting the loop and asking for a fraction from the user, if the denominator of the fraction is negative it will swap the negative symbol with the numerator. The fraction will then print before asking for the next fraction from the user repeating the same process. The two fractions are then added together and displayed. The program then begins at the beginning of the loop. If a fraction that is the equivalent of zero for the first fraction entered of the loop then the program will close. 
 
-## Assumptions made about the program:
+Assumptions made about the program:
 
 User won’t input punctuation.
-User will know how to use the program
+User will know how to use the program.
 
 # User Guide
 ## Running from CMD

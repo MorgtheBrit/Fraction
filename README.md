@@ -9,6 +9,7 @@ The program 'Fraction' was coded to the requirements asked for by the client. Th
 Assumptions made about the program:
 
 -User won’t input punctuation.
+
 -User will know how to use the program.
 
 # User Guide
